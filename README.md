@@ -1,4 +1,12 @@
-﻿# 🦙 UnityCodeLama — Unity Editor Tool
+![Ollama](https://img.shields.io/badge/Ollama-%23000000?logo=Ollama)
+![Unity](https://img.shields.io/badge/Unity-unity?logo=Unity&color=%23000000)
+![C#](https://img.shields.io/badge/C%23-%23512BD4?logo=.NET)
+![License](https://img.shields.io/github/license/HardCodeDev777/UnityCodeLama?color=%2305991d)
+![Last commit](https://img.shields.io/github/last-commit/HardCodeDev777/UnityCodeLama?color=%2305991d)
+![Tag](https://img.shields.io/github/v/tag/HardCodeDev777/UnityCodeLama)
+![Top lang](https://img.shields.io/github/languages/top/HardCodeDev777/UnityCodeLama)
+
+ # 🦙 UnityCodeLama — Unity Editor Tool
 
 > 🔍 Analyze your Unity scripts using large language models directly from the Editor — powered by [Ollama](https://ollama.com).
 
