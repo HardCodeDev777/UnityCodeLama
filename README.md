@@ -23,6 +23,8 @@ It's useful for:
 
 No additional setup required.
 
+The `Plugins` folder includes several `.dll` files required for integration. 
+
 ---
 
 ## 💻 Usage
@@ -171,6 +173,11 @@ public static class ScriptReader
     }
 }
 ```
+---
+
+## 🛠 TODO
+
+- [ ] Review which `.dll` files in the `Plugins` folder are actually required and remove the unnecessary ones.
 
 ---
 
