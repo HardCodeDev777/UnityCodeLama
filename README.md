@@ -17,8 +17,8 @@ It's useful for:
 
 ## 📦 Installation
 
-1. Download the ZIP archive.  
-2. Unzip and place the `UnityCodeLama` folder inside your project's `Assets/` directory.  
+1. Download the latest .unitypackage file from the Releases page.
+2. Drag & drop it into your Unity project window.
 3. Unity will automatically compile the editor extension.  
 
 No additional setup required.
