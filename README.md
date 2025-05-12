@@ -8,6 +8,11 @@
 
  # 🦙 UnityCodeLama — Unity Editor Tool
 
+Listed in [Ollama Community Projects](https://github.com/ollama/ollama#community-projects)
+
+&nbsp;
+
+
 > 🔍 Analyze your Unity scripts using large language models directly from the Editor — powered by [Ollama](https://ollama.com).
 
 ---
