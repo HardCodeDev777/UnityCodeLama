@@ -194,13 +194,6 @@ public static class ScriptReader
 
 ---
 
-## 📦 Distribution and Usage
-
-This tool is provided as-is and is intended to help Unity developers integrate code analysis with large language models (LLMs) through Ollama.  
-Feel free to modify and use it in your projects — but please keep attribution.
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
